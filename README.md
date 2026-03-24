@@ -3,14 +3,24 @@ Hi, I'm Albin 👋
 🎓 First Year Student
 💻 Learning C Programming & Problem Solving
 🚀 Building small projects and improving daily
+🧑‍💻Coding Enthusiast
 
 ---
 
 🧠 Skills
 
 - C Programming
+- Java Programming
 - Basics of Problem Solving
 - Git & GitHub
+- OOP's Concept
+  ----
+
+  ✨ Soft Skills
+  - Communication Skills
+  - Leadership Quality
+  - Language Fluency
+  - 
 
 ---
 
@@ -19,6 +29,7 @@ Hi, I'm Albin 👋
 - 🎯 Random Number Guessing Game
 - 🔐 Password Generator
 - 🧮 Simple Calculator
+- 🧑‍🎓 Student portal(LOADING..)
 
 (More coming soon...)
 
@@ -26,14 +37,13 @@ Hi, I'm Albin 👋
 
 📈 Progress
 
-- ✔️ Completed 3 projects in 1 day
-- 🔜 Goal: 10 projects
+- ✔️ Completed 3 projects
+- 1 Project on the way 
+- 🔜 Goal: To Build Social and Futuristic projects
 
 ---
 
-📫 Connect
-
-- GitHub: https://github.com/albinbca2025
+📫 Connect- GitHub: https://github.com/albinbca2025
 
 ---
 
